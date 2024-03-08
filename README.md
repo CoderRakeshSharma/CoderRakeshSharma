@@ -1,4 +1,4 @@
-Hello There, I’m Rakesh Sharma, A Front-End Web-Developer working as Junior Software Developer at Searching Yard Software Pvt Ltd. I love crafting stunning and interactive web applications using cutting-edge technologies such as Next.js, TypeScript, Tailwind CSS. I’m always on the lookout for new skills and challenges in the web development domain.
+Hello There, I’m Rakesh Sharma, A Front-End Web-Developer working as Software Developer at Searching Yard Software Pvt Ltd. I love crafting stunning and interactive web applications using cutting-edge technologies such as Next.js, TypeScript, Tailwind CSS. I’m always on the lookout for new skills and challenges in the web development domain.
 
 But wait, there’s more! I also have a knack for Data Science and Machine Learning. I have a blast working with data and discovering insights that can make a difference in the world. I have a solid background in Python, NumPy, Pandas, Scikit-Learn and TensorFlow. I’m always open to applying my data prowess to exciting and impactful projects.
 
