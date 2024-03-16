@@ -6,6 +6,5 @@ If you’re looking for a collaborator or a conversationalist on anything relate
 MY PORTFOLIO:- https://rakeshsharma.vercel.app/
 MY CV:- https://rakeshsharmacv.vercel.app/
 
-
-![Github](https://user-images.githubusercontent.com/113636765/236749211-1921de8a-d6ba-4a76-bfbf-ee870a04f43b.png)
+![image](https://github.com/CoderRakeshSharma/CoderRakeshSharma/assets/113636765/746bed0a-1745-4e69-9ce9-93e161ca7a31)
 
