@@ -1,8 +1,10 @@
-Hello There, I’m Rakesh Sharma, A Front-End Web-Developer working as Software Developer at Searching Yard Software Pvt Ltd. I love crafting stunning and interactive web applications using cutting-edge technologies such as Next.js, TypeScript, Tailwind CSS. I’m always on the lookout for new skills and challenges in the web development domain.
+👋 Hello there! I’m Rakesh Sharma, a passionate Front-End Web Developer dedicated to crafting stunning, interactive web applications with the latest technologies like Next.js, TypeScript, and Tailwind CSS. My journey in web development is fueled by a love for innovation and a keen eye for detail.
 
-But wait, there’s more! I also have a knack for Data Science and Machine Learning. I have a blast working with data and discovering insights that can make a difference in the world. I have a solid background in Python, NumPy, Pandas, Scikit-Learn and TensorFlow. I’m always open to applying my data prowess to exciting and impactful projects.
+🚀 Beyond web development, I dive into the world of Data Science and Machine Learning, blending creativity with analytical skills. From Python and NumPy to Pandas, Scikit-Learn, and TensorFlow, I thrive on extracting meaningful insights from data and applying them to real-world problems.
 
-If you’re looking for a collaborator or a conversationalist on anything related to Web-Development or Data Science, don’t hesitate to connect with me. I’m all ears.😊
+💡 I’m always eager to learn new skills and take on challenging projects that push the boundaries of what’s possible. Whether it’s building seamless user experiences or uncovering data-driven solutions, I’m committed to making a tangible impact.
+
+🤝 Let’s connect! Whether you’re looking for a collaborator on your next web project or someone to discuss the latest in Data Science, I’m excited to hear from you. Let’s create something amazing together.
 MY PORTFOLIO:- https://rakeshsharma.vercel.app/
 MY CV:- https://rakeshsharmacv.vercel.app/
 
