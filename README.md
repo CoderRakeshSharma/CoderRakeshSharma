@@ -5,9 +5,3 @@
 💡 I’m always on the lookout for innovative projects and opportunities to apply my skills in Data Science and AI. Whether it’s developing predictive models, optimizing algorithms, or experimenting with deep learning, I’m dedicated to continuous learning and impactful results.
 
 🤝 Let’s connect! Whether you’re looking for a collaborator on your next web project or someone to discuss the latest in Data Science, I’m excited to hear from you. Let’s create something amazing together.
-
-MY PORTFOLIO:- https://rakeshsharma.vercel.app/
-MY CV:- https://rakeshsharmacv.vercel.app/
-
-![image](https://github.com/CoderRakeshSharma/CoderRakeshSharma/assets/113636765/746bed0a-1745-4e69-9ce9-93e161ca7a31)
-
