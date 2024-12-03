@@ -1,4 +1,4 @@
-Hi! I’m Rakesh Sharma, a ML & AI enthusiast driven by the potential of data to solve real-world challenges. My primary focus is on building intelligent models using Python, Tensor Flow, Scikit-Learn, and other cutting-edge tools to extract valuable insights and create impactful solutions.
+👋 Hi! I’m Rakesh Sharma, a ML & AI enthusiast driven by the potential of data to solve real-world challenges. My primary focus is on building intelligent models using Python, Tensor Flow, Scikit-Learn, and other cutting-edge tools to extract valuable insights and create impactful solutions.
 
 🚀 While my journey began in Web Development, my passion has shifted toward applying analytical techniques and AI to tackle complex problems. Though I still enjoy crafting seamless web applications, my expertise now lies in using data to inform decisions, predict trends, and automate processes through machine learning.
 
