@@ -1,8 +1,8 @@
-👋 Hello there! I’m Rakesh Sharma, a passionate Front-End Web Developer dedicated to crafting stunning, interactive web applications with the latest technologies like Next.js, TypeScript, and Tailwind CSS. My journey in web development is fueled by a love for innovation and a keen eye for detail.
+Hi! I’m Rakesh Sharma, a ML & AI enthusiast driven by the potential of data to solve real-world challenges. My primary focus is on building intelligent models using Python, Tensor Flow, Scikit-Learn, and other cutting-edge tools to extract valuable insights and create impactful solutions.
 
-🚀 Beyond web development, I dive into the world of Data Science and Machine Learning, blending creativity with analytical skills. From Python and NumPy to Pandas, Scikit-Learn, and TensorFlow, I thrive on extracting meaningful insights from data and applying them to real-world problems.
+🚀 While my journey began in Web Development, my passion has shifted toward applying analytical techniques and AI to tackle complex problems. Though I still enjoy crafting seamless web applications, my expertise now lies in using data to inform decisions, predict trends, and automate processes through machine learning.
 
-💡 I’m always eager to learn new skills and take on challenging projects that push the boundaries of what’s possible. Whether it’s building seamless user experiences or uncovering data-driven solutions, I’m committed to making a tangible impact.
+💡 I’m always on the lookout for innovative projects and opportunities to apply my skills in Data Science and AI. Whether it’s developing predictive models, optimizing algorithms, or experimenting with deep learning, I’m dedicated to continuous learning and impactful results.
 
 🤝 Let’s connect! Whether you’re looking for a collaborator on your next web project or someone to discuss the latest in Data Science, I’m excited to hear from you. Let’s create something amazing together.
 
