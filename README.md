@@ -18,6 +18,6 @@ class DataScientist:
         print(f"Hi, I'm {self.name}, a {self.role}. Thanks for dropping by😊")
 
 
-me = Data Scientist()
+me = DataScientist()
 me.say_hi()
 ```
