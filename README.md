@@ -5,3 +5,19 @@
 💡 I’m always on the lookout for innovative projects and opportunities to apply my skills in Data Science and AI. Whether it’s developing predictive models, optimizing algorithms, or experimenting with deep learning, I’m dedicated to continuous learning and impactful results.
 
 🤝 Let’s connect! Whether you’re looking for a collaborator on your next web project or someone to discuss the latest in Data Science, I’m excited to hear from you. Let’s create something amazing together.
+
+```python
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Rakesh Sharma"
+        self.role = "Data Scientist"
+        self.language_spoken = ["en_US", "hi_IN", "or_IN"]
+
+    def say_hi(self):
+        print(f"Hi, I'm {self.name}, a {self.role}. Thanks for dropping by😊")
+
+
+me = Data Scientist()
+me.say_hi()
+```
