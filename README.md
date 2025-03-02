@@ -14,10 +14,12 @@ class DataScientist:
         self.role = "Data Scientist"
         self.language_spoken = ["en_US", "hi_IN", "or_IN"]
         self.link = "https://linktr.ee/TheRakeshSharma"
+        self.portfolio = "https://therakeshsharma.vercel.app"
 
     def say_hi(self):
         print(f"Hi, I'm {self.name}, a {self.role}. Thanks for dropping by😊")
         print(f"Checkout: {self.link}")
+        print(f"Portfolio: {self.portfolio}")
 
 me = DataScientist()
 me.say_hi()
